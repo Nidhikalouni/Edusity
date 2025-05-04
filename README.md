@@ -1,12 +1,28 @@
-# React + Vite
+# 🎓 Edusity - University Landing Page (React Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive university landing page built using **React**. This single-page application showcases university programs, an about section, image gallery, testimonials, contact form integration, and an interactive video player modal.  
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+https://edusity-gules-three.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 🌟 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎯 **Single Page Application** built with React
+- 📽️ **Interactive Video Modal** in the About section
+- 🖼️ **Gallery Section** showcasing the university campus
+- 🧑‍🎓 **Testimonials Slider** to share student experiences
+- 📧 **Fully Functional Contact Form** integrated with [Web3Forms](https://web3forms.com/)
+- 📱 **Responsive Design** using custom CSS
+- 📌 **Sticky Navbar** with smooth scroll navigation
+
+
+## 📦 Technologies Used
+
+- **React.js**
+- **JavaScript (ES6+)**
+- **CSS3**
+- **Web3Forms API** (for contact form submission)
+- **React Scroll** (for smooth navigation)
+
+
